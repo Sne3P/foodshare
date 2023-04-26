@@ -16,7 +16,7 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
-salut
+
 import {
   Colors,
   DebugInstructions,
